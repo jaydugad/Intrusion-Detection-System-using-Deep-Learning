@@ -1,7 +1,7 @@
 # Intrusion-Detection-System-using-Deep-Learning
 
 **Project Overview**
-This project is focused on the design and deployment of an Intrusion Detection System (IDS) aimed at enhancing network security. The IDS leverages advanced data analysis techniques and machine learning algorithms for effective pattern recognition and anomaly detection. Additionally, it features a user-friendly interface for real-time monitoring and management of security alerts.
+This project is focused on the design and deployment of an Intrusion Detection System (IDS) aimed at enhancing network security. The IDS leverages advanced data analysis techniques and machine learning algorithms for effective pattern recognition and anomaly detection. Additionally, it features a user-friendly interface for real-time monitoring and management of security alerts. This deep learning project was a group project led by me.
 
 **Features**
 
